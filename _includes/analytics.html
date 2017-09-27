@@ -9,6 +9,9 @@
   {% include /analytics-providers/custom.html %}
 {% when "baidu" %}
   {% include /analytics-providers/baidu.html %}
+{% when "baidu&google-universal" %}
+  {% include /analytics-providers/baidu.html %}
+  {% include /analytics-providers/google-universal.html %}
 {% endcase %}
 
 {% endif %}
