@@ -1,9 +1,9 @@
 # Develop override settings
 
-url: http://localhost:4000
+url: https://drewanye.github.io
 
 analytics:
-  provider: false
+  provider: true
 
 comments:
   disqus:
