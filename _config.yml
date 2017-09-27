@@ -11,7 +11,7 @@ title                    : "Zhenan Ye"
 title_separator          : "-"
 name                     : &name "Zhenan Ye"
 description              : &description "Deep learning, machine learning"
-url                      : https://drewanye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://drewanye.github.io #http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -190,7 +190,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: true
