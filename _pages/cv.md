@@ -17,29 +17,25 @@ Education
 Work experience
 ======
 * Research Assistant	(Jun. 2017 - present)
-
-  Pervasive Computing Lab, Zhejiang University, advised by Prof. Lin Chen
+  <address>Pervasive Computing Lab, Zhejiang University, advised by Prof. Lin Chen</address>
   * Developed a model using deep multi-task learning to recognize simple and
 complex activities simultaneously through a shared representation
 
 * Software Engineer Intern	(May 2016 – Sept. 2016)
-
-  DaoCloud Inc., Shanghai, China
+  <address>DaoCloud Inc., Shanghai, China<address>
   * Developed remote terminal service for a running container that allows users to
 operate the container
   * Design and implementation of distributed cloud database system based on
 Docker
 
 * Research Assistant	(Jul. 2015 – Mar. 2016)
-
-  IBM Shared University Research & Zhejiang University
+  <address>IBM Shared University Research & Zhejiang University</address>
   * Detected procurement fraud based on Hadoop and social network analysis
   * Applied data mining and machine learning algorithm to analyze purchasing data.
   * Implemented the algorithm of predicting and recommending links in social networks
 
 * Software Engineer Intern 	(Oct. 2014 - May 2015)
-
-  Insigma Hengtian Software Inc., Hangzhou, China
+  <address>Insigma Hengtian Software Inc., Hangzhou, China</address>
   * Developed dashboard based on OpenStack Horzion
   * Maintained IaaS Cloud Platform OpenStack
   * Designed online disk website for company based on Sheepdog, using Django
@@ -55,9 +51,9 @@ Skills
 
 Publications
 ======
-Liangying Peng, **Zhenan Ye**, Lin Chen. **AROMA: A deep multi-task learning based simple and complex activity recognition method using wearable sensors** (to be submitted) [code](https://github.com/drewanye/har-joint-model)
-![Figure 1](/images/posts/2017-09-23-aroma/har-joint-model.png){: .align-center}
+Liangying Peng, **Zhenan Ye**, Lin Chen. **AROMA: A deep multi-task learning based simple and complex activity recognition method using wearable sensors** (to be submitted)[code](https://github.com/drewanye/har-joint-model)
 
+![Figure 1](/images/posts/2017-09-23-aroma/har-joint-model.png){: .align-center}
 
 SCHOLARSHIPS & HONORS
 ====
