@@ -17,12 +17,13 @@ Education
 Work experience
 ======
 * Research Assistant	(Jun. 2017 - present)
-  Pervasive Computing Lab, Zhejiang University, advised by Prof Lin Chen
+
+  Pervasive Computing Lab, Zhejiang University, advised by Prof. Lin Chen
   * Developed a model using deep multi-task learning to recognize simple and
 complex activities simultaneously through a shared representation
-  * Supervisor: Prof. Lin Chen
 
 * Software Engineer Intern	(May 2016 – Sept. 2016)
+
   DaoCloud Inc., Shanghai, China
   * Developed remote terminal service for a running container that allows users to
 operate the container
@@ -30,12 +31,14 @@ operate the container
 Docker
 
 * Research Assistant	(Jul. 2015 – Mar. 2016)
+
   IBM Shared University Research & Zhejiang University
   * Detected procurement fraud based on Hadoop and social network analysis
   * Applied data mining and machine learning algorithm to analyze purchasing data.
   * Implemented the algorithm of predicting and recommending links in social networks
 
 * Software Engineer Intern 	(Oct. 2014 - May 2015)
+
   Insigma Hengtian Software Inc., Hangzhou, China
   * Developed dashboard based on OpenStack Horzion
   * Maintained IaaS Cloud Platform OpenStack
@@ -43,7 +46,7 @@ Docker
 
 Skills
 ======
-* Experience on deep learning, TensorFlow, activity recognition
+* Experience on Deep Learning, TensorFlow, Activity Recognition
 * Strong programming ability with Python, Java, C/C++
 * Interests including deep learning, time series, transfer learning, machine learning, distributed system
 * Language
@@ -52,7 +55,8 @@ Skills
 
 Publications
 ======
-Liangying Peng, **Zhenan Ye**, Lin Chen. **AROMA: A deep multi-task learning based simple and complex activity recognition method using wearable sensors** (to be submitted)
+Liangying Peng, **Zhenan Ye**, Lin Chen. **AROMA: A deep multi-task learning based simple and complex activity recognition method using wearable sensors** (to be submitted) [code](https://github.com/drewanye/har-joint-model)
+![Figure 1](/images/posts/2017-09-23-aroma/har-joint-model.png){: .align-center}
 
 
 SCHOLARSHIPS & HONORS
