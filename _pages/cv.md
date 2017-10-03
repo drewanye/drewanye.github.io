@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+[( <ins>pdf version</ins> )](https://drewanye.github.io/files/cv.pdf)
 
 Education
 ======
-* M.S. in Software Engineering, Zhejiang University, 2015 - present
-* B.E. in Software Engineering, Chongqing University, 2011 - 2015
+* M.S. in Software Engineering, Zhejiang University, 2015 - present, GPA: 85/100
+* B.E. in Software Engineering, Chongqing University, 2011 - 2015, GPA: 3.5/4.0
 
 Work experience
 ======
