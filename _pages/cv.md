@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Software Engineering, Zhejiang University, 2015 - present, GPA: 85/100
-* B.E. in Software Engineering, Chongqing University, 2011 - 2015, GPA: 3.5/4.0
+* M.S. in Software Engineering, Zhejiang University, 2015 - present
+* B.E. in Software Engineering, Chongqing University, 2011 - 2015
 
 Work experience
 ======
