@@ -52,7 +52,7 @@ Skills
 
 Publications
 ======
-Liangying Peng, **Zhenan Ye**, Lin Chen. **AROMA: A deep multi-task learning based simple and complex activity recognition method using wearable sensors** (to be submitted). [<ins>code</ins>](https://github.com/drewanye/har-joint-model)
+Liangying Peng, **Zhenan Ye**, Lin Chen. **AROMA: A deep multi-task learning based simple and complex activity recognition method using wearable sensors** (review in 2018 AAAI). [<ins>code</ins>](https://github.com/drewanye/har-joint-model)
 
 ![Figure 1](/images/posts/2017-09-23-aroma/har-joint-model.png){: .align-center}
 
