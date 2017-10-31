@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Software Engineering, Zhejiang University, 2015 - present
+* M.E. in Software Engineering, Zhejiang University, 2015 - present
 * B.E. in Software Engineering, Chongqing University, 2011 - 2015
 
 Work experience
