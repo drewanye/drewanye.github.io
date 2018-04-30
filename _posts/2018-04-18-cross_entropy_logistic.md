@@ -8,7 +8,7 @@ tags:
 ---
 
 # Cross-entropy loss, binary cross-entropy loss and logistic loss
-These days I have some confusions about cross-entropy loss and logistic loss when I research on gan and adversarial learning. Luckily, I disentangle myself from the perplexity.
+These days I have some confusions about cross-entropy loss and logistic loss when I research on GAN and adversarial training. Luckily, I disentangle myself from the perplexity.
 
 
 
