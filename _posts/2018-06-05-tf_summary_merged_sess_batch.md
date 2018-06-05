@@ -1,7 +1,7 @@
 ---
-title: 'LeetCode 357'
-date: 2018-04-30
-permalink: /posts/2018/04/leetcode/357
+title: '记一次TensorFlow tf.summary.image对生成batch数据的影响'
+date: 2018-06-05
+permalink: /posts/2018/06/summary_image_batch
 tags:
   - tensorflow
   - algorithm
@@ -75,7 +75,7 @@ step 4: (1, 5)
 
 ...
 这相当于第一个sess里运行merged会生成测试的batch数据，至于为什么和第二个sess生成测试数据间隔生成数据，这是因为文件队列会通过Reader将文件里的数据读入到example queue中，每生成一个batch的数据会从example queue拿出数据，而先后执行sess.run([merged])和sess.run([test_img_batch, test_label_batch])都会从example queue里输出测试数据，而导致间隔生成测试数据的现象。TensorFlow通过队列读入文件的示意图如下：
-![queue_runner]('/images/posts/tensorflow/queue_runner.png')
+![queue_runner](/images/posts/tensorflow/queue_runner.png)
 正确方式是将生成train和test的数据放在同一个Session里，代码如下：
 ```
 with tf.Session(config=tf_config) as sess:
